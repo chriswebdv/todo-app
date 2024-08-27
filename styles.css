@@ -1,0 +1,28 @@
+body {
+  width: 50%;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.container {
+  width: 80%;
+}
+
+.inputField {
+  width: 70%;
+  border: 1px solid black;
+  border-radius: 2px;
+  vertical-align: middle;
+}
+
+.addTodo {
+  border: 1px solid black;
+  border-radius: 2px;
+  color: black;
+  background-color: white;
+}
+
+.toDos {
+  margin-top: 25px;
+}
